@@ -1,0 +1,3 @@
+print("welcome to the world of programming")
+tell_me=("how is it going ?")
+print(tell_me)
